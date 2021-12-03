@@ -1,0 +1,3 @@
+[submodule "fitbit"]
+	path = fitbit
+	url = git@github.com:SYSC-4907-Group-51/python-fitbit.git
